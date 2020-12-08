@@ -25,7 +25,7 @@
       <div class="row">
       	<div>
       		<h1 style ="text-align: center; color: red;">Hướng dẫn đặt hàng</h1>
-      		<strong>Các bước mua hàng trên Nông Sản 24h: </strong>
+      		<strong>Các bước mua hàng trên Web bán thực phẩm sạch: </strong>
       		<p>
       		- Tìm kiếm sản phẩm <br>
       		- Chọn sản phẩm <br>
